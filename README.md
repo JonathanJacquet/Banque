@@ -1,6 +1,7 @@
 # APPLICATION BANCAIRE EN PROGRAMATION ORIENTÉ OBJET
 Projet en binôme de création d'application bancaire à partir d'un UML. L'application doit permettre à un utilisateur de créer et gérer ses comptes bancaires.
 Les fonctionnalités de l'application étaient de permettre a l'utilisateur de  :
+
 * Créer un nouveau compte bancaire avec différents critères
 * Afficher les comptes de l'utilisateurs
 * Supprimer un compte bancaire
